@@ -1,0 +1,10 @@
+.table-hgt {
+  height: fit-content !important;
+}
+.title {
+  font-weight: bold !important;
+}
+.link {
+  color: #678cf7;
+  cursor: pointer;
+}

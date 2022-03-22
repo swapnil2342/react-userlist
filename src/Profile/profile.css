@@ -1,0 +1,53 @@
+.profile {
+  width: 300px;
+  margin-right: 62px;
+}
+.profile-title {
+  background: #f6f7fb;
+  font-size: 20px;
+  font-weight: 600;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+}
+.info {
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+.initial {
+  width: 25px;
+  height: 25px;
+  background: #a0a1a1;
+  color: white;
+  border-radius: 50%;
+  padding: 5px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  font-weight: 600;
+  font-size: large;
+}
+.username {
+  font-weight: 600;
+  font-size: small;
+}
+.info-container {
+  margin-bottom: 7px;
+  padding-left: 15px;
+}
+.input-label {
+  color: #a0a1a1;
+  font-size: small;
+  margin-bottom: 3px;
+}
+.text {
+  border: solid 2px #f0f0f1;
+  border-radius: 4px;
+  font-size: small;
+  padding: 4px;
+}
